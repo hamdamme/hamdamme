@@ -1,7 +1,7 @@
 # Hi, I'm Hamdam 👋
 
 Software engineer based in Chicago, building full-stack products and applied-research tooling.
-Founder at [Active Orbit INC](https://activeorbita-web.vercel.app) · [hamdam.me](https://www.hamdam.me)
+Founder at [hamdam.me](https://www.hamdam.me)
 
 ## What I work on
 
@@ -19,7 +19,6 @@ Founder at [Active Orbit INC](https://activeorbita-web.vercel.app) · [hamdam.me
 | [routing-topology](https://github.com/hamdamme/routing-topology) | Interactive network routing lab — topology editor, Dijkstra / Bellman–Ford / Distance Vector playback, failure scenarios ([live](https://network-routing-simulator.onrender.com/)) |
 | [state-space-explorer](https://github.com/hamdamme/state-space-explorer) | Interactive A* search explorer with playback, constraints, and algorithm comparison ([live](https://state-space-explorer.hamdam.me/)) |
 | [breast-cancer-coverage-analysis](https://github.com/hamdamme/breast-cancer-coverage-analysis) | Reproducible R analysis of U.S. breast cancer incidence vs. insurance coverage, with an interactive map ([report](https://coverage.hamdam.me/)) |
-| [moontera-web](https://github.com/hamdamme/moontera-web) | Driver application workflow for a trucking company — Next.js, Vercel Blob, Resend |
 
 ## Tech stack
 
