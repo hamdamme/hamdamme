@@ -1,4 +1,4 @@
-# Hi, I'm Hamdam 👋
+# Hi, I'm Hamdam
 
 Software engineer based in Chicago, building full-stack products and applied-research tooling.
 Founder at [hamdam.me](https://www.hamdam.me)
