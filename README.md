@@ -2,7 +2,7 @@
 
 Software engineer based in Chicago. I build web applications, backend services, and software for applied research.
 
-Founder at [Active Orbit INC](https://activeorbita-web.vercel.app). [Portfolio](https://www.hamdam.me)
+Founder at [Portfolio](https://www.hamdam.me)
 
 ## Selected work
 
